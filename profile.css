@@ -1,0 +1,28 @@
+body{
+	margin-top: 20px;
+	background-color: lightgray;
+}
+.main{
+	pedding: 15px;
+	font-family: Arial, helvetica, sans-serif;
+}
+.topbar{
+	background-color: teal;
+	overflow: hidden;
+}
+.topbar a{
+	float: right;
+	color: whitesmoke;
+	text-align: center;
+	padding: 20px 26px;
+	text-decoration: none;
+	font-size: 26px;
+
+.card{
+	position: relative;
+	display: flex;
+	flex-decoration: column;
+}
+.content{
+	background-color: whitesmoke;
+}
